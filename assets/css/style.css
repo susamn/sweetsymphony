@@ -928,6 +928,20 @@ section {
   color: #948c81;
 }
 
+.menu .menu-tag {
+  display: inline-block;
+  background: #ffb03b;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 3px;
+  margin-left: 8px;
+  vertical-align: middle;
+  letter-spacing: 0.5px;
+}
+
 /*--------------------------------------------------------------
 # Specials
 --------------------------------------------------------------*/
